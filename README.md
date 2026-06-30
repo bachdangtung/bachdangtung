@@ -1,8 +1,3 @@
-<!-- bachdangtung header banner -->
-<p align="center">
-  <img src="svg/bachdangtung.svg" width="100%" alt="Bach Dang Tung Banner" />
-</p>
-
 <h1 align="center">👋 Hi there, I'm Bach Dang Tung!</h1>
 
 <p align="center">
@@ -52,46 +47,19 @@
 
 <br />
 
-<!-- WORDLE:START -->
-### 🎮 Profile Wordle
-
-<p align="center">🎮 **Play Wordle!** Try to guess the 5-letter programming word. <a href="https://github.com/bachdangtung/bachdangtung/issues/new?title=wordle%3A+guess+%3CYOUR_GUESS_HERE%3E&body=Replace+%3CYOUR_GUESS_HERE%3E+with+a+5-letter+word+in+the+issue+title+and+click+%22Submit+new+issue%22%21"><b>Make a Guess (Click here)</b></a></p>
-
-<p align="center"><b>Attempt 1:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
-<p align="center"><b>Attempt 2:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
-<p align="center"><b>Attempt 3:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
-<p align="center"><b>Attempt 4:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
-<p align="center"><b>Attempt 5:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
-<p align="center"><b>Attempt 6:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
-
-
-<p align="center">
-  <b>Letter Status:</b><br />
-  🟩 Correct: None<br />
-  🟨 Present: None<br />
-  ⬛ Absent: None
-</p>
-
-
-<p align="center">
-  <b>Last Action:</b> No guesses yet.<br />
-  🏆 <b>Streak:</b> 0 wins (Max: 0) &nbsp;|&nbsp; ⚔️ <b>Total Games:</b> 0 (Won: 0)
-</p>
-
-<p align="center">
-  <a href="https://github.com/bachdangtung/bachdangtung/issues/new?title=wordle%3A+reset&body=Click+%22Submit+new+issue%22+to+reset+the+game%21"><b>🔄 Reset / Start New Game</b></a>
-</p>
-<!-- WORDLE:END -->
-
-<br />
-
 ## 🔥 GitHub Stats
 
-<p align="center">
-  <img height="220" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-  &nbsp;&nbsp;
-  <img height="220" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img height="220" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+    </td>
+    <td>&nbsp;&nbsp;</td>
+    <td>
+      <img height="220" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -103,30 +71,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bachdangtung/bachdangtung/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bachdangtung/bachdangtung/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</p>
-
-<br />
-
-## 👽 Connect with Me
-
-<p align="center">
-  <a href="https://www.facebook.com/bachtung0807" target="_blank">
-    <img src="https://img.icons8.com/bubbles/90/000000/facebook-new.png" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/bachdangt/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/90/000000/instagram.png" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bachdangtung0807@gmail.com">
-    <img src="https://img.icons8.com/bubbles/90/000000/apple-mail.png" alt="Email" />
-  </a>
-</p>
-
-<br />
-
-## 📑 Favorite Quote
-
-<p align="center">
-  <img src="svg/bachdangtung-quotes.svg" width="846" alt="Favorite Quote" />
 </p>
