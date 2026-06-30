@@ -52,40 +52,45 @@
 
 <br />
 
-<!-- TICTACTOE:START -->
-### 🎮 Play Tic-Tac-Toe!
+<!-- WORDLE:START -->
+### 🎮 Profile Wordle
 
-🎮 **Your turn!** Click any ⬜ cell to place your ❌.
+<p align="center">🎮 **Play Wordle!** Try to guess the 5-letter programming word. <a href="https://github.com/bachdangtung/bachdangtung/issues/new?title=wordle%3A+guess+%3CYOUR_GUESS_HERE%3E&body=Replace+%3CYOUR_GUESS_HERE%3E+with+a+5-letter+word+in+the+issue+title+and+click+%22Submit+new+issue%22%21"><b>Make a Guess (Click here)</b></a></p>
 
-| | Column 1 | Column 2 | Column 3 |
-| :---: | :---: | :---: | :---: |
-| **Row 1** | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+0&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+1&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+2&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) |
-| **Row 2** | ❌ | ⭕ | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+5&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) |
-| **Row 3** | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+6&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+7&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+8&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) |
+<p align="center"><b>Attempt 1:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
+<p align="center"><b>Attempt 2:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
+<p align="center"><b>Attempt 3:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
+<p align="center"><b>Attempt 4:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
+<p align="center"><b>Attempt 5:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
+<p align="center"><b>Attempt 6:</b> &nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜ &nbsp;&nbsp;&nbsp; ⬜</p>
 
-**Last action:** @bachdangtung played cell 4. Bot responded at cell 5.
 
-**🏆 Scores:**
-- 👤 Users: **0** wins
-- 🤖 Bot: **0** wins
-- 🤝 Draws: **0**
-- ⚔️ Total Games: **0**
+<p align="center">
+  <b>Letter Status:</b><br />
+  🟩 Correct: None<br />
+  🟨 Present: None<br />
+  ⬛ Absent: None
+</p>
 
-[🔄 Reset / Start New Game](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+reset&body=Just+click+%22Submit+new+issue%22+to+reset+the+game%21)
-<!-- TICTACTOE:END -->
+
+<p align="center">
+  <b>Last Action:</b> No guesses yet.<br />
+  🏆 <b>Streak:</b> 0 wins (Max: 0) &nbsp;|&nbsp; ⚔️ <b>Total Games:</b> 0 (Won: 0)
+</p>
+
+<p align="center">
+  <a href="https://github.com/bachdangtung/bachdangtung/issues/new?title=wordle%3A+reset&body=Click+%22Submit+new+issue%22+to+reset+the+game%21"><b>🔄 Reset / Start New Game</b></a>
+</p>
+<!-- WORDLE:END -->
 
 <br />
 
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/bachdangtung">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=bachdangtung&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Bach Dang Tung's GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bachdangtung">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachdangtung&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Bach Dang Tung's Top Languages" />
-  </a>
+  <img height="220" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  &nbsp;&nbsp;
+  <img height="220" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
 </p>
 
 <br />

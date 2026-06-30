@@ -1,4 +1,4 @@
-name: Tic-Tac-Toe Game
+name: Profile Wordle Game
 
 on:
   issues:
@@ -11,7 +11,7 @@ permissions:
 jobs:
   play:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, 'tictactoe:')
+    if: startsWith(github.event.issue.title, 'wordle:')
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: 18
 
-      - name: Run Game Turn
+      - name: Run Wordle Turn
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_ACTOR: ${{ github.actor }}
@@ -29,18 +29,18 @@ jobs:
           TITLE="${{ github.event.issue.title }}"
           echo "Title: $TITLE"
           
-          # Strip 'tictactoe:' prefix (case insensitive) and trim spaces
-          CMD_STR=$(echo "$TITLE" | sed -E 's/^tictactoe:[[:space:]]*//i')
+          # Remove prefix "wordle:" (case-insensitive) and trim spaces
+          CMD_STR=$(echo "$TITLE" | sed -E 's/^wordle:[[:space:]]*//i')
           echo "Command string: $CMD_STR"
           
           CMD=$(echo "$CMD_STR" | cut -d' ' -f1 | tr '[:upper:]' '[:lower:]')
           ARG=$(echo "$CMD_STR" | cut -d' ' -f2)
           echo "Parsed Command: $CMD, Argument: $ARG"
           
-          if [ "$CMD" = "play" ]; then
-            node scripts/tictactoe.js play "$ARG"
+          if [ "$CMD" = "guess" ]; then
+            node scripts/wordle.js guess "$ARG"
           elif [ "$CMD" = "reset" ]; then
-            node scripts/tictactoe.js reset
+            node scripts/wordle.js reset
           else
             echo "Unknown command: $CMD"
           fi
@@ -48,8 +48,8 @@ jobs:
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "tictactoe: update game state [skip ci]"
-          file_pattern: 'README.md data/tictactoe.json'
+          commit_message: "wordle: update game state [skip ci]"
+          file_pattern: 'README.md data/wordle.json'
 
       - name: Close Issue
         uses: actions/github-script@v7
