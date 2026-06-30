@@ -1,0 +1,22 @@
+{
+  "board": [
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " "
+  ],
+  "turn": "X",
+  "winner": null,
+  "lastMoveBy": "@Player reset the game.",
+  "stats": {
+    "gamesPlayed": 0,
+    "userWins": 0,
+    "botWins": 0,
+    "draws": 0
+  }
+}
