@@ -60,10 +60,10 @@
 | | Column 1 | Column 2 | Column 3 |
 | :---: | :---: | :---: | :---: |
 | **Row 1** | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+0&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+1&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+2&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) |
-| **Row 2** | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+3&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+4&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+5&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) |
+| **Row 2** | ❌ | ⭕ | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+5&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) |
 | **Row 3** | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+6&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+7&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) | [⬜](https://github.com/bachdangtung/bachdangtung/issues/new?title=tictactoe%3A+play+8&body=Just+click+%22Submit+new+issue%22+to+make+your+move%21) |
 
-**Last action:** @Player reset the game.
+**Last action:** @bachdangtung played cell 4. Bot responded at cell 5.
 
 **🏆 Scores:**
 - 👤 Users: **0** wins
